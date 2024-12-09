@@ -1,3 +1,6 @@
+### Testing Files ###
+data.json
+
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
