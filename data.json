@@ -1,0 +1,13 @@
+{
+    "employees": [
+      { "EmployeeID": 1, "Name": "Alice", "DepartmentID": 101 },
+      { "EmployeeID": 2, "Name": "Bob", "DepartmentID": 102 },
+      { "EmployeeID": 3, "Name": "Charlie", "DepartmentID": null }
+    ],
+    "departments": [
+      { "DepartmentID": 101, "DepartmentName": "HR" },
+      { "DepartmentID": 102, "DepartmentName": "Engineering" },
+      { "DepartmentID": 103, "DepartmentName": "Marketing" }
+    ]
+  }
+  
